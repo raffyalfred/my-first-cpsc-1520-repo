@@ -8,3 +8,4 @@ I have learnt how to
 - Create a local repository
 - Commit chnages to my repository
 - Publish my code to GitHub.com
+- Open my repository folder in Visual Studio Code (my editor)
