@@ -13,4 +13,10 @@ I have learnt how to
 (https://gitignore.io)
 - Create a good .gitattributes files - from [GitAttributes.io]
 (https://gitattributes.io)
-- Commit my chanes from within Visual Studio Code
+- Commit my changes from within Visual Studio Code
+- Commit my changes Via the command line
+    - `git add .`
+    - `git status`
+    - `git commit -m "My Message (in quotes)"`
+    - `git pull`
+    - `git push`
